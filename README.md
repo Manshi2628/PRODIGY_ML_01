@@ -2,8 +2,6 @@
 Linear Regression model to predict house prices based on square footage, bedrooms, and bathrooms using Kaggle dataset.
 
 
-# PRODIGY_ML_01
-
 ## Task-01: House Price Prediction using Linear Regression  
 
 This repository contains the implementation of a **Linear Regression model** to predict house prices based on features like **square footage, number of bedrooms, and number of bathrooms**.  
